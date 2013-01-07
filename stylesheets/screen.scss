@@ -106,6 +106,7 @@ nav {
 /* Committee members page */
 #members {
   article {
+    min-height: 150px;
     border-bottom: 1px solid #999;
     &:last-child { border: 0; }
     
