@@ -18,4 +18,4 @@ Anyone violating these rules at events may be asked to leave the event without a
 
 If you or someone else is subject to harassment, or you have a concern, please contact an organiser of the appropriate event, or member of [the Ruby Australia committee](http://ruby.org.au/committee-members.html).
 
-Thank you for helping making this community welcoming and friendly for everyone.
+The Ruby community is a welcoming and friendly place – thank you for being a part of it.
