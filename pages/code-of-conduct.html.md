@@ -16,6 +16,6 @@ Be kind to others. Do not insult or put down other members of the community. Be 
 
 Anyone violating these rules at events may be asked to leave the event without a refund at the sole discretion of the organisers.
 
-If you or someone else is subject to harassment, or you have a concern, please contact the event organisers (who will introduce themselves at the beginning of the event), or member of [the Ruby Australia committee](http://ruby.org.au/committee-members.html).
+If you or someone else is subject to harassment, or you have a concern, please contact the event organisers (who will introduce themselves at the beginning of the event), or member of [the Ruby Australia committee](/committee-members.html).
 
 The Ruby community is a welcoming and friendly place – thank you for being a part of it.
