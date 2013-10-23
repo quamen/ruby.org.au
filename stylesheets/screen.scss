@@ -45,7 +45,7 @@ h3 + p { margin-top: 0.5em; }
 
 /* Global layout */
 
-header[role='banner'] { 
+header[role='banner'] {
   @include respond-to(tablet) { float: left; margin-right: 1em; }
 
   overflow: hidden;
@@ -58,13 +58,14 @@ header[role='banner'] {
   }
 }
 
-#meta { 
-  @include left-column;  
+#meta {
+  @include left-column;
   @include respond-to(tablet) { clear: none; }
 }
 
 nav {
   padding-top: 0.3em; // to align visually with the mission statement's larger type.
+  h3:before { content: "» "; }
   ul {
     margin-top: 0;
     padding-left: 0;
@@ -77,21 +78,21 @@ nav {
 [role='main'] {
   @include right-column;
   @include respond-to(tablet) { float: none; margin: 0 17px; width: 90%; }
-  
+
   & section { margin-bottom: 5em; }
 }
 
 .meetup-locations {
   margin: 0; padding: 0;
-  
+
   & li { display: block; }
 }
 
 
 /* Index page */
-#mission-statement { 
+#mission-statement {
   @include respond_to(narrow) { font-weight: normal; font-size: 1.1em; }
-  
+
   font-size: 150%;
   font-weight: bold;
   line-height: 1.5em;
@@ -109,7 +110,7 @@ nav {
     min-height: 150px;
     border-bottom: 1px solid #999;
     &:last-child { border: 0; }
-    
+
     padding-bottom: 1.5em;
     margin-bottom: 3em;
 
@@ -122,11 +123,11 @@ nav {
       margin-right: 160px;
     }
     h3, p { margin-top: 0; }
-    
+
     .position { font-size: 0.9em; font-style: italic; color: #777; }
-    
+
     h3 {
-      font-size: 1.25em; 
+      font-size: 1.25em;
       margin-bottom: 0.2em;
     }
   }
@@ -159,8 +160,8 @@ input {
 footer[role="contentinfo"] {
     @include clearfix;
     clear: both;
-    
+
     padding: 2em 0;
-    
+
     small { @include both-columns; font-size: 0.7em; color: #999; }
 }
