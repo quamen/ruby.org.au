@@ -19,3 +19,7 @@ Anyone violating these rules at events may be asked to leave the event without a
 If you or someone else is subject to harassment, or you have a concern, please contact the event organisers (who will introduce themselves at the beginning of the event), or member of [the Ruby Australia committee](/committee-members.html).
 
 The Ruby community is a welcoming and friendly place – thank you for being a part of it.
+
+
+
+This Code of Conduct has learned and borrowed much from others - especially [JSConf](http://jsconf.com/codeofconduct.html) and [Jeff Casimir](https://gist.github.com/jcasimir/6992184). Thank you to all who provided inspiration and feedback.
