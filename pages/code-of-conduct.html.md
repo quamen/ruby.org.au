@@ -8,7 +8,7 @@ Whenever we come together as a community, our shared spaces are opportunities to
 
 With that in mind, if you are present at any Ruby Australia event, whether as an attendee, organiser, sponsor or speaker, we take it as given that you agree to follow this code of conduct:
 
-The Ruby Australia organisation is dedicated to providing harassment-free experiences at events and conferences for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment in any form.
+The Ruby Australia organisation is dedicated to providing harassment-free experiences at events and conferences for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, religion, or age. We do not tolerate harassment in any form.
 
 All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate in any circumstance.
 
