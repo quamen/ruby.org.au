@@ -83,7 +83,7 @@ not a good situation, but mistakes happen...
 
 ## Licence
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Ruby Australia website</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="ruby.org.au" property="cc:attributionName" rel="cc:attributionURL">Ruby Australia</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="github.com/rails-oceania/ruby.org.au" rel="dct:source">github.com/rails-oceania/ruby.org.au</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Ruby Australia website</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://ruby.org.au" property="cc:attributionName" rel="cc:attributionURL">Ruby Australia</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/rails-oceania/ruby.org.au" rel="dct:source">github.com/rails-oceania/ruby.org.au</a>.
 
 ## Content licence
 
