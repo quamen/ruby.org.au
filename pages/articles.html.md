@@ -1,11 +1,11 @@
 # On Gender Equality in the Australian Ruby Community
 
 
-Written by Elle Meredith, one of the RubyConfAU 2014 organisers and a Ruby Australia committee member. It was reviewed by the other conference organisers and committee members before publication.
+Written by [Elle Meredith](https://twitter.com/aemeredith), one of the RubyConfAU 2014 organisers and a Ruby Australia committee member. It was reviewed by the other conference organisers and committee members before publication.
 
 February 26, 2014
 
-The RubyConfAU 2014 organisers have come under fire for the  conference's low percentage of female speakers. This started when Ms. Eleanor Saitta, the closing keynote speaker, displayed a final slide, listing 26 women who could have given talks at the conference. If you are short on time, what I would like you to take from this article is that diversity in the Australian Ruby Community is improving but we still have more to do.
+The [RubyConfAU 2014](http://rubyconf.org.au/) organisers have come under fire for the  conference's low percentage of female speakers. This started when Ms. Eleanor Saitta, the closing keynote speaker, displayed a final slide, listing 26 women who could have given talks at the conference. If you are short on time, what I would like you to take from this article is that diversity in the Australian Ruby Community is improving but we still have more to do.
 
 Side note, diversity is about marginalised groups and the issues and barriers they face. For the sake of this article, I will concentrate on diversity of gender within the Australian Ruby community.
 
