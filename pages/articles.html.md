@@ -56,18 +56,27 @@ In the recent Railscamp, in November 2013, the organisers had scholarship ticket
 
 ## What have we done for the conference?
 
-* We emailed female speakers, from within the industry and related industries and invited them to speak. Out of the women Josh Price or I contacted, five said yes, out of which three then cancelled. And the majority of the others turned down our invitation.
+* We emailed female speakers, from within the industry and related industries and invited them to speak. Out of the women Josh Price or I approached, five said yes, out of which three then cancelled. And the majority of the others turned down our invitation.
 * We offered to cover travel expenses to speakers.
 * We offered student discounted tickets. These were also offered to General Assembly alumni.
 * We offered scholarship tickets.
 * We asked the speakers to sign an agreement, stating their responsibility to adhere to the Code of Conduct.
 * We developed and offered the world's first free Rails Girls Next workshop, and offered the attendees the option to purchase a ticket at student prices, whether they are students or not.
+* We included beginner level talk options.
+* We offered shirts in both man and female cuts.
+* We catered for special dietary requirements and allergies.
+* We opened up the speakers dinner to be inclusive to anyone who wanted to join. The dinner cost was subsidised by Ruby Australia and did not include alcoholic beverages by default. We also organised Luna Park rides as an non-alcohol centered activity.
+
 
 On the topic of child care, I had seen it addressed at another conference recently, so I investigated. Unfortunately, the timing was too close to be able to offer it or to be utilised at scale this time around. We did however accommodate a recent new mother, who brought her newborn son to the conference.
 
 ## Things we could have done and should be done next time
 
-* Invite more women to speak.
+* Personally invite more diverse speakers. Research the topic and review the list provided in the closing keynote.
+* Allow the option to submit talks that is not public.
+* Plan for curated content and be open and transparent about the process of talk selection.
+* Describe what is provided to accepted speakers.
+* Consider available resources to help first time speakers.
 * Introduced the Code of Conduct at the beginning of the conference and explained how to act in case of concerns.
 * The conference website should have included a name and contact details for the people to contact in the case of something happening.
 * Child care facilities.
