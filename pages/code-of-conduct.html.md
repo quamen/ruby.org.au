@@ -22,4 +22,4 @@ The Ruby community is a welcoming and friendly place – thank you for being a p
 
 - - -
 
-This Code of Conduct has learned and borrowed much from others - especially [JSConf](http://jsconf.com/codeofconduct.html) and [Jeff Casimir](https://gist.github.com/jcasimir/6992184). Thank you to all who provided inspiration and feedback.
+This Code of Conduct has learned and built upon the efforts from many others, both within the Ruby community and more widely. Thank you to all who provided inspiration and feedback.
