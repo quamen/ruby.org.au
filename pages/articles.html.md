@@ -52,7 +52,7 @@ Rails Girls events have been run in all major cities around Australia multiple t
 
 A [Code of Conduct for Ruby Australia](http://ruby.org.au/code-of-conduct.html) was [developed publicly on GitHub](https://github.com/rubyaustralia/ruby.org.au/pull/21). It was derived from recognised public examples such as [the Python community](http://www.python.org/psf/codeofconduct/) and [JSConf](http://jsconf.com/codeofconduct.html). It was then ratified by the committee members in mid-October, posted live, and shared. All attendees, including sponsors and speakers, at Ruby Australia events are expected and required, to abide by the Code of Conduct when at any Ruby Australia event.
 
-In the recent Railscamp, in November 2013, the organisers had scholarship tickets aimed for women and students. Also at the start of the camp, the topic was addressed and people with high visibility vests were pointed out as point of contact in case any concern may arise.
+In the recent Rails Camp, in November 2013, the organisers had scholarship tickets aimed for women and students. Also at the start of the camp, the topic was addressed and people with high visibility vests were pointed out as point of contact in case any concern may arise.
 
 ## What have we done for the conference?
 
@@ -86,7 +86,7 @@ Furthermore, we can only grow the speaker diversity from our community by improv
 
 ## Summary
 
-We are getting better, particularly when it comes to promoting diversity in the community and contributing to making this a reality. Four years ago (at a 2010 Railscamp) I was the only female at the camp. Two years ago, we had just four female developers. This year, at the conference, we had 52 female attendees. I believe this change over the last year is due to the conscious effort by community members and Ruby Australia to promote Rails Girls events and welcome newcomers into the community. Now, as I said at the beginning, if we can achieve all this in one year, just imagine what more we can do within this coming year. So basically, what we as a community say is that we are trying; we will try harder.
+We are getting better, particularly when it comes to promoting diversity in the community and contributing to making this a reality. Four years ago (at a 2010 Rails Camp) I was the only female at the camp. Two years ago, we had just four female developers. This year, at the conference, we had 52 female attendees. I believe this change over the last year is due to the conscious effort by community members and Ruby Australia to promote Rails Girls events and welcome newcomers into the community. Now, as I said at the beginning, if we can achieve all this in one year, just imagine what more we can do within this coming year. So basically, what we as a community say is that we are trying; we will try harder.
 
 
 ## Reading materials
