@@ -10,7 +10,7 @@ namespace :build do
   task :stylesheets do
     sh 'compass compile -c compass-config.rb'
   end
-  
+
   desc "Build the javascripts, outputting to ./site/js"
   task :javascripts do
     sh 'mkdir -p ./site/js'
@@ -22,7 +22,13 @@ namespace :build do
     sh 'mkdir -p ./site/images'
     sh 'cp -r images/* ./site/images'
   end
-  
+
+  desc "Copy the static files to ./site/files"
+  task :images do
+    sh 'mkdir -p ./site/files'
+    sh 'cp -r files/* ./site/files'
+  end
+
   desc "Setup the CNAME"
   task :cname do
     sh 'cp CNAME ./site/'
@@ -47,7 +53,7 @@ namespace :build do
   end
 
   desc "Build all the dynamic bits of the site"
-  task :all => [:stylesheets, :javascripts, :pages, :cname, :images]
+  task :all => [:stylesheets, :javascripts, :pages, :cname, :images, :files]
 end
 
 desc "Commit the latest version of the site to the gh-pages branch"
