@@ -1,6 +1,6 @@
 # ruby.org.au
 
-The `ruby.org.au` site is a static site hosted with Github Pages.
+The `ruby.org.au` site is a static site hosted with GitHub Pages.
 
 * Content is in `/pages` as Haml templates
 * Styles are `/stylesheets`, compiled using compass
@@ -72,7 +72,7 @@ git add site
 git commit -m "Committing changes to the generated site"
 git push origin master
 
-# Update the gh-pages branch and push to github
+# Update the gh-pages branch and push to GitHub
 rake deploy
 ```
 
@@ -87,8 +87,8 @@ not a good situation, but mistakes happen...
 
 ## Content licence
 
-Content is Copyright 2012 by Ruby Australia, All rights reserved. 
+Content is Copyright 2012 by Ruby Australia, All rights reserved.
 
 ## Logotype licence
 
-"Ruby Australia" 'Gem' and Typographic logo are Copyright 2012 by Ruby Australia, All rights reserved. 
+"Ruby Australia" 'Gem' and Typographic logo are Copyright 2012 by Ruby Australia, All rights reserved.
