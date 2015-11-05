@@ -165,7 +165,6 @@ input {
   width: 300px;
 }
 
-
 footer[role="contentinfo"] {
     @include clearfix;
     clear: both;
@@ -173,4 +172,9 @@ footer[role="contentinfo"] {
     padding: 2em 0;
 
     small { @include both-columns; font-size: 0.7em; color: #999; }
+}
+
+blockquote {
+  border-left: solid 0.4em #d3d3d3;
+  padding-left: 0.4em;
 }
